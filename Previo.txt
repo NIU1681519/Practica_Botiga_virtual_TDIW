@@ -1,0 +1,27 @@
+Tematica elegirda por nosotros. Nada ofensivo
+
+9.2 Feina prèvia abans de la sessió
+• Penseu quina serà la temàtica de la vostra botiga, què hi vendreu (ha
+de ser algun tipus de producte de comerç just i/o sostenible).
+• Dissenyeu el prototip de com serà la vostra botiga. No cal que feu
+servir cap eina, el podeu fer a mà, amb paper i bolígraf.
+9.3 Feina durant la sessió i abans de la següent sessió
+• Repasseu un tutorial de HTML5[8][7][4].
+• Repasseu un tutorial de CSS[8][6][1].
+
+
+
+9.3.2 Navegació del catàleg
+Cal que desenvolupeu el layout —l’estructura— de la vostra botiga amb
+HTML5. Per fer-ho, comenceu implementant les següents pàgines:
+• Llistat de categories de productes.
+• Llistat de productes.
+• Detall de producte.
+Penseu que, a més a més de definir els fitxers HTML, necessitareu definir
+els fulls d’estils, en CSS3, en fitxers separats.
+Maquetar aquestes pàgines us servirà per definir l’estructura de la vostra
+botiga.
+En acabar de fer aquest apartat el vostre web hauria de tenir un estil
+visual propi, amb una estructura i combinació de colors propis. A les figures
+1 i 2 us mostrem un parell d’exemples de la pàgina principal del web de dues
+pràctiques del curs 2017-2018.
